@@ -1,0 +1,5 @@
+git reset HEAD~no of commits
+git status
+git add files
+git commit --amend --no-edit
+git push -f
